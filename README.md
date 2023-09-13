@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arrafi Ahsan Somudro</h1>
-<h3 align="center">C# | .NET | SQL Server | Angular | Design Pattern | Junior Software Engineer at ASA International</h3>
+<h3 align="center">C# | .NET | SQL Server | Angular | Design Pattern | Junior Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrafeeahsan&label=Profile%20views&color=0e75b6&style=flat" alt="arrafeeahsan" /> </p>
